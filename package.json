@@ -2,9 +2,9 @@
   "name": "webauth-iii-challenge",
   "version": "1.0.0",
   "main": "index.js",
-  "script": {
+  "scripts": {
     "start": "node index.js",
-    "server": "nodemon index.js"
+    "server": "nodemon"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
